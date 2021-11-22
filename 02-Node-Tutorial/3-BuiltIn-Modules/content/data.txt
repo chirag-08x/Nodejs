@@ -1,0 +1,1 @@
+Hello this is a top secret data.This is the appended data. This data is appended using writeFileSync.
