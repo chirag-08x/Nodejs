@@ -1,6 +1,6 @@
 // OS Module
 
-// Os module is an object, so we can destructure it.
+// Os module is an object, so we can destructure it. Is is a built-in module so we can type the name directly.
 const os = require("os");
 
 // console.log(os);
